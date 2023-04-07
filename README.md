@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lynden
-- I am a 16 Year old student, who enjoys coding on small IoT hardware. 
-- I as well enjoy making practical code to solve real world problems I encounter. 
+- I am a 17 Year old student, who enjoys coding. 
+- I as well enjoy making practical code to solve real world problems I encounter and looking at interesting trends in data. 
 - Experienced in Python, C++, Linux, Dockers, Fusion 360, 3D printing,Arduinos and Raspberry Pis 
 
 
