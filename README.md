@@ -1,4 +1,4 @@
-- I am a 17 Year old student, who enjoys coding. 
+- I am a student, who enjoys coding. 
 - I as well enjoy making practical code to solve real-world problems I encounter and looking at interesting trends in data. 
 - Experienced in Python, C++, Linux, Dockers, Fusion 360, 3D printing, Arduinos and Raspberry Pis 
 
